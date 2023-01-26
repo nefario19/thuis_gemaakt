@@ -1,16 +1,20 @@
-# thuis_gemaakt
+# Thuis gemaakt [WIP]
 
-A new Flutter project.
+Jij bent werkzaam als mobile- en UX developer. Jij krijgt nu een project van een opdrachtgever genaamd Stamsa. Stamsa wil een product ontwikkelen genaamd ThuisGemaakt. Het gaat om een mobiele app dat het gezond koken stimuleert.
 
-## Getting Started
+## Hoe werkt de app?
+De app moet een lijst met gerechten presenteren aan de gebruiker voor een hele week (7 dagen). De gebruiker moet iedere week andere gerechten voorgeschoteld krijgen. Het mag niet voorkomen dat de gebruiker twee keer hetzelfde eet in een week en daarom moeten er genoeg gerechten in de app staan. Wanneer jij een gerecht in de lijst kiest, dan moeten de stappen voor het maken van het gerecht te lezen zijn. Dit betekent dat:
 
-This project is a starting point for a Flutter application.
+Een beschrijving aanwezig is.
+De tijdsduur.
+Een stappenplan.
 
-A few resources to get you started if this is your first Flutter project:
+Tip: Kijk eens naar wat andere kook apps doen voor je direct begint te ontwerpen!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Probleemstelling:
+De klant is niet technisch of creatief en schakelt daarom jou in. Hij wil graag dat jij het marktonderzoek uitvoert, een ontwerp presenteert en een prototype maakt. Hij laat zich volledig door jou adviseren a.d.v. de nieuwste trends en ontwikkeling. Jij bent tenslotte de expert!
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+Wat heb je nodig?
+Allereerst levert de opdrachtgever geen laptops, dus jij moet dit op jouw eigen laptop ontwikkelen. Daarnaast wil de opdrachtgever wel graag dat jij zijn sjabloon gebruikt voor het onderzoeksrapport omdat zij dit veel gebruiken in het bedrijf.
