@@ -6,10 +6,10 @@ Beste student,
 ## Hoe werkt de app?
 De app moet een lijst met gerechten presenteren aan de gebruiker voor een hele week (7 dagen). De gebruiker moet iedere week andere gerechten voorgeschoteld krijgen. Het mag niet voorkomen dat de gebruiker twee keer hetzelfde eet in een week en daarom moeten er genoeg gerechten in de app staan. Wanneer jij een gerecht in de lijst kiest, dan moeten de stappen voor het maken van het gerecht te lezen zijn. Dit betekent dat:
  
-•	Een beschrijving van het gerecht aanwezig is.
-•	De tijdsduur van het bereiden.
-•	Een stappenplan om het gerecht te maken.
-•	Er moet aangegeven worden voor wat voor dieet dit geschikt is. Denk aan (Vega, Vegan, Keto, Pescaratisch) etc.
+- Een beschrijving van het gerecht aanwezig is.
+- De tijdsduur van het bereiden.
+- Een stappenplan om het gerecht te maken.
+- Er moet aangegeven worden voor wat voor dieet dit geschikt is. Denk aan (Vega, Vegan, Keto, Pescaratisch) etc.
  
 Tip: Kijk eens naar wat andere kook apps doen voor je direct begint te ontwerpen!
  
