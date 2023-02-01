@@ -1,4 +1,4 @@
-# Thuis gemaakt [WIP]
+# Thuis gemaakt
 
 Beste student,
  Jij bent werkzaam als mobile- en UX developer. Jij krijgt nu een project van een opdrachtgever genaamd Stamsa. Stamsa wil een product ontwikkelen genaamd ThuisGemaakt. Het gaat om een mobiele app dat het gezond koken stimuleert.
